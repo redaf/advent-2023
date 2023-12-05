@@ -2,6 +2,10 @@
 
 https://adventofcode.com/2023
 
+```
+rustup component add rustfmt
+```
+
 ## Progress
 
 - [x] Day 1
